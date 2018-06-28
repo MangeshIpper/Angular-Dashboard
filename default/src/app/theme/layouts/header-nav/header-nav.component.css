@@ -1,0 +1,58 @@
+.btn{
+    padding: 12px;
+margin-top: 12px;
+margin-left: 20px;
+border: 1px solid grey;
+border-radius: 26px;
+}
+
+
+.abcdef{
+    border-radius: 26px;
+        color: #738db0;
+}
+#dropdownMenuButton {
+    border: 1px solid lightgray !important;
+}
+
+#dropdownMenuButton {
+    width: 100%;
+    text-align: left;
+    margin-left: 0px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.dropdown.dropdownheader {
+    width: 160px;
+}
+body{
+    line-height: 2.5;
+}
+
+
+
+.fa.fa-navicon.navbtnicon {
+    font-size: 28px !important;
+}
+
+.m-topbar .m-topbar__nav.m-nav > .m-nav__item > .m-nav__link .m-nav__link-icon > i::before {
+    background: -webkit-linear-gradient(180deg,#ad5beb 25%,#c678db 50%,#da6ea9 75%,#e76e92 100%);
+    background: linear-gradient(180deg,#ad5beb 25%,#c678db 50%,#da6ea9 75%,#e76e92 100%);
+    background-clip: text;
+    /* text-fill-color: transparent; */
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: unset!important;
+}
+.m-topbar .m-topbar__nav.m-nav > .m-nav__item > .m-nav__link .m-nav__link-icon {
+    text-align: center;
+    color: #599ffd;
+}
+
+.imgheading {
+    width: 100% !important;
+}
+
+#dropdownMenuButton {
+    font-family: 'Montserrat', sans-serif !important;
+}
